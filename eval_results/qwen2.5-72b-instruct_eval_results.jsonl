@@ -1,0 +1,1575 @@
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 2}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 3}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 4}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 5}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 6}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 7}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 82, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 8}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 9}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 10}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 11}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 51, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 12}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 13}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 14}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 48, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 15}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 16}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 17}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 18}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 19}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 20}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 61, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 21}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 22}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 23}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 58, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 24}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 47, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 25}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 47, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 26}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 27}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 28}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 29}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 30}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 31}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 32}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 33}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 34}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 35}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 36}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 37}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 38}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 39}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 40}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 41}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 78, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 42}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 78, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 43}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 44}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 45}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 46}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 47}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 48}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 106, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 49}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 50}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 51}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 52}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 53}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 54}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 55}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 56}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 57}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 58}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 59}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 60}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 61}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 62}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 63}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 56, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 64}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 65}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 66}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 67}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 68}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 69}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 70}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 71}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 72}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 73}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 74}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 75}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 76}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 77}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 78}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 79}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 59, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 80}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 81}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 82}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 83}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 84}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 85}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 86}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 87}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 88}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 89}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 90}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 91}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 92}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 93}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 94}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 95}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 96}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 97}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 98}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 99}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 100}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 101}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 102}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 103}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 104}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 105}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 106}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 107}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 108}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 109}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 110}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 111}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 112}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 113}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 114}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 115}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 116}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 117}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 118}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 80, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 119}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 80, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 120}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 80, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 121}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 122}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 106, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 123}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 106, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 124}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 106, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 125}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 106, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 126}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 106, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 127}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 128}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 129}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 130}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 131}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 132}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 133}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 134}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 135}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 136}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 137}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 138}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 85, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 139}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 140}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 141}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 142}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 143}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 144}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 145}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 146}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 147}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 148}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 149}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 150}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 151}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 152}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 153}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 154}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 155}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 59, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 156}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 157}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 158}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 159}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 160}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 161}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 162}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 163}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 164}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 165}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 166}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 167}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 168}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 169}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 170}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 171}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 172}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 173}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 174}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 175}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 176}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 177}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 178}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 179}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 180}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 181}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 182}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 183}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 184}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 185}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 51, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 186}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 187}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 188}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 189}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 64, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 190}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 64, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 191}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 192}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 193}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 194}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 195}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 196}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 197}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 198}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 199}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 68, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 200}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 201}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 202}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 203}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 204}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 205}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 206}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 207}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 89, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 208}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 209}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 210}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 211}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 212}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 213}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 214}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 215}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 216}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 217}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 218}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 84, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 219}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 84, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 220}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 221}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 77, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 222}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 223}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 77, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 224}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 225}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 226}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 227}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 228}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 78, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 229}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 78, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 230}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 231}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 232}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 233}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 234}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 59, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 235}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 236}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 237}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 238}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 239}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 240}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 241}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 242}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 243}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 244}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 245}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 246}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 247}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 248}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 249}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 250}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 251}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 252}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 253}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 254}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 255}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 256}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 257}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 258}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 259}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 260}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 261}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 262}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 263}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 264}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 265}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 266}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 267}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 268}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 269}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 270}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 271}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 272}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 273}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 274}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 275}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 276}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 277}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 278}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 279}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 280}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 281}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 282}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 283}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 284}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 285}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 286}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 287}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 288}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 289}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 290}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 291}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 292}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 63, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 293}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 294}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 79, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 295}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 79, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 296}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 79, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 297}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 79, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 298}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 299}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 300}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 301}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 302}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 303}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 304}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 305}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 306}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 307}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 308}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 309}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 310}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 311}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 312}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 313}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 314}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 315}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 316}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 317}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 318}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 319}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 320}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 321}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 322}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 323}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 324}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 325}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 326}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 327}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 328}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 329}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 115, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 330}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 115, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 331}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 115, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 332}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 333}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 334}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 335}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 336}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 337}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 338}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 339}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 340}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 341}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 342}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 343}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 344}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 345}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 346}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 347}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 348}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 349}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 350}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 351}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 352}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 353}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 354}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 88, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 355}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 88, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 356}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 88, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 357}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 88, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 358}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 359}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 360}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 361}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 362}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 363}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 364}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 365}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 366}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 367}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 83, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 368}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 369}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 370}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 371}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 372}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 373}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 374}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 375}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 376}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 377}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 378}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 91, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 379}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 380}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 381}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 91, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 382}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 91, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 383}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 384}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 385}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 386}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 387}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 388}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 389}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 390}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 391}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 392}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 393}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 394}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 395}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 396}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 397}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 398}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 57, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 399}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 400}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 401}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 402}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 403}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 404}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 405}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 406}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 407}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 408}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 409}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 410}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 411}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 412}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 413}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 414}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 415}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 416}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 417}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 418}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 419}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 420}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 421}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 422}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 423}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 424}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 425}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 426}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 427}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 82, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 428}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 429}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 430}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 431}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 432}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 433}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 434}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 96, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 435}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 436}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 437}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 438}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 439}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 440}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 70, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 441}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 442}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 443}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 444}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 445}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 446}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 447}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 448}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 449}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 450}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 451}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 452}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 453}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 454}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 455}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 456}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 457}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 458}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 459}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 460}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 461}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 462}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 463}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 464}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 465}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 466}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 467}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 468}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 469}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 470}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 471}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 472}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 473}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 474}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 475}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 476}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 477}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 478}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 479}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 480}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 481}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 482}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 483}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 484}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 485}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 486}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 487}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 488}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 82, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 489}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 490}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 491}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 492}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 493}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 494}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 495}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 496}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 497}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 498}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 499}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 500}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 59, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 501}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 59, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 502}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 59, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 503}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 504}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 505}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 506}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 507}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 508}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 80, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 509}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 510}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 511}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 512}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 513}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 514}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 515}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 516}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 517}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 518}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 519}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 520}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 521}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 522}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 523}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 524}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 64, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 525}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 64, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 526}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 64, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 527}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 528}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 529}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 76, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 530}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 76, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 531}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 532}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 533}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 534}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 535}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 536}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 537}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 538}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 539}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 540}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 541}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 542}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 543}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 544}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 76, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 545}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 76, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 546}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 547}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 548}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 549}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 550}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 551}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 552}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 553}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 554}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 57, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 555}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 556}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 557}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 558}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 559}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 560}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 561}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 562}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 563}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 564}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 565}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 566}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 567}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 568}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 569}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 570}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 571}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 572}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 573}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 574}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 575}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 576}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 577}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 578}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 579}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 580}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 581}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 582}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 583}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 584}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 585}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 586}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 587}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 588}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 589}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 63, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 590}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 63, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 591}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 592}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 593}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 594}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 595}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 596}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 597}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 598}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 599}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 600}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 601}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 602}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 54, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 603}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 604}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 605}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 606}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 607}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 608}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 609}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 610}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 611}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 612}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 613}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 614}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 615}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 616}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 617}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 618}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 619}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 63, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 620}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 621}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 622}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 623}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 624}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 625}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 626}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 627}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 628}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 629}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 630}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 631}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 632}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 633}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 634}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 635}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 636}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 637}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 638}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 639}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 640}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 641}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 642}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 643}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 644}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 645}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 646}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 647}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 648}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 649}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 650}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 68, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 651}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 652}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 68, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 653}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 654}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 655}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 656}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 657}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 658}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 659}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 660}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 661}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 87, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 662}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 663}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 664}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 665}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 666}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 667}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 668}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 669}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 670}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 671}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 672}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 673}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 674}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 675}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 676}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 677}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 678}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 679}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 680}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 681}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 79, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 682}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 683}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 684}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 685}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 686}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 687}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 688}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 689}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 690}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 691}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 692}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 693}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 694}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 695}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 696}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 697}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 698}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 699}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 700}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 701}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 702}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 703}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 704}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 705}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 706}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 707}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 708}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 709}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 710}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 79, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 711}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 712}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 713}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 714}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 71, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 715}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 716}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 717}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 718}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 719}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 720}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 721}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 722}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 76, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 723}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 724}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 725}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 726}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 727}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 728}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 729}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 730}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 731}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 732}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 733}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 734}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 735}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 736}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 737}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 738}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 739}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 740}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 741}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 742}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 62, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 743}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 744}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 745}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 746}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 747}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 748}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 749}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 750}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 751}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 752}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 753}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 754}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 755}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 756}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 757}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 758}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 759}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 760}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 761}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 762}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 763}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 764}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 765}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 766}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 767}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 768}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 769}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 49, in <module>\n    constraint_list = [constraint_4]\n                       ^^^^^^^^^^^^\nNameError: name 'constraint_4' is not defined\n", "extraction_failed": 0, "idx": 770}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 49, in <module>\n    constraint_list = [constraint_1,constraint_4]\n                       ^^^^^^^^^^^^\nNameError: name 'constraint_1' is not defined\n", "extraction_failed": 0, "idx": 771}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 49, in <module>\n    constraint_list = [constraint_1,constraint_2,constraint_4]\n                       ^^^^^^^^^^^^\nNameError: name 'constraint_1' is not defined\n", "extraction_failed": 0, "idx": 772}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 773}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 774}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 775}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 776}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 72, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 777}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 778}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 779}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 780}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 781}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 782}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 783}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 784}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 785}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 786}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 787}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 788}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 789}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 64, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 790}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 64, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 791}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 792}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 793}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 794}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 795}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 83, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 796}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 83, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 797}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 798}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 799}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 800}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 801}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 802}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 803}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 804}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 805}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 806}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 807}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 808}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 809}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 810}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 811}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 812}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 813}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 57, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 814}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 815}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 816}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 87, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 817}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 63, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 818}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 88, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 819}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 820}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 821}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 70, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 822}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 823}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 94, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 824}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 101, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 825}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 826}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 827}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 828}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 103, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 829}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 830}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 107, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 831}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 832}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 58, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 833}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 834}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 835}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 836}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 837}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 838}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 839}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 840}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 841}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 842}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 843}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 109, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 844}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 845}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 85, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 846}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 847}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 848}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 89, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 849}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 850}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 106, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 851}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 852}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 853}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 854}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 855}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 856}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 857}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 858}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 112, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 859}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 110, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 860}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 118, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 861}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 862}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 863}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 76, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 864}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 865}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 866}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 120, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 867}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 117, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 868}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 80, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 869}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 870}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 871}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 127, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 872}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 873}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 124, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 874}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 875}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 876}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 133, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 877}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 56, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 878}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 95, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 879}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 880}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 881}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 60, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 882}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 883}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 884}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 885}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 886}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 887}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 888}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 889}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 65, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 890}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 891}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 100, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 892}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 893}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 894}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 895}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 896}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 897}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 898}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 899}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 900}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 77, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 901}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 902}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 119, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 903}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 904}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 101, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 905}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 906}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 907}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 908}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 909}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 910}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 911}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 912}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 913}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 914}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 915}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 916}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 917}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 918}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 919}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 136, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 920}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 59, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 921}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 922}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 923}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 924}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 63, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 925}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 926}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 927}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 928}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 929}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 59, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 930}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 931}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 932}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 139, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 933}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 934}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 82, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 935}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 936}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 65, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 937}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 938}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 939}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 940}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 941}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 942}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 943}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 944}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 945}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 946}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 947}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 948}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 949}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 950}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 951}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 76, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 952}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 953}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 89, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 954}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 79, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 955}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 956}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 957}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 88, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 958}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 95, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 959}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 80, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 960}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 80, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 961}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 94, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 962}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 963}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 964}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 85, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 965}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 100, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 966}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 967}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 87, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 968}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 969}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 87, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 970}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 109, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 971}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 90, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 972}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 973}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 974}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 975}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 85, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 976}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 977}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 80, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 978}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 979}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 980}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 981}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 982}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 983}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 82, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 984}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 120, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 985}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 986}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 987}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 97, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 988}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 989}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 106, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 990}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 59, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 991}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 992}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 116, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 993}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 85, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 994}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 995}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 996}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 997}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 64, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 998}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 999}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1000}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1001}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1002}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1003}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 112, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1004}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1005}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1006}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1007}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1008}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1009}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 43, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1010}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1011}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1012}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1013}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1014}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1015}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 112, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1016}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1017}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 47, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1018}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 118, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1019}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 118, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1020}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 96, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1021}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1022}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1023}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 102, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1024}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1025}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 130, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1026}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1027}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 51, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1028}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1029}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1030}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 136, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1031}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1032}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1033}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1034}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 143, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1035}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1036}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 143, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1037}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 148, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1038}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1039}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 139, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1040}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 89, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1041}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 98, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1042}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 104, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1043}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 110, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1044}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1045}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 97, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1046}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1047}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1048}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 119, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1049}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1050}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1051}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1052}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1053}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 64, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1054}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1055}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 68, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1056}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1057}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1058}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 89, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1059}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 57, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1060}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 60, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1061}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 62, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1062}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1063}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1064}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1065}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 70, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1066}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 77, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1067}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1068}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 97, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1069}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1070}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 78, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1071}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1072}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1073}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 98, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1074}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 82, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1075}
+{"acc": 0, "error": "extraction_failed", "extraction_failed": 1, "idx": 1076}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 83, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1077}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1078}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 104, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1079}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1080}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1081}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1082}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1083}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1084}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 76, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1085}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1086}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1087}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1088}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 80, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1089}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1090}
+{"acc": 0, "error": "extraction_failed", "extraction_failed": 1, "idx": 1091}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1092}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1093}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 89, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1094}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 84, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1095}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1096}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1097}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 112, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1098}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 91, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1099}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1100}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1101}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1102}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1103}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1104}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1105}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1106}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1107}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1108}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 92, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1109}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1110}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1111}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1112}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1113}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1114}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1115}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1116}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 87, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1117}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1118}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1119}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 78, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1120}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1121}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 63, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1122}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 79, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1123}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1124}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1125}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 93, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1126}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1127}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1128}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1129}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1130}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 87, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1131}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 52, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1132}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1133}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 86, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1134}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1135}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1136}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1137}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1138}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 59, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1139}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1140}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 56, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1141}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 59, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1142}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1143}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1144}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1145}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1146}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1147}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1148}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1149}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1150}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 60, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1151}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 63, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1152}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 55, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1153}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 60, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1154}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1155}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1156}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 59, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1157}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 123, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1158}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1159}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1160}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 72, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1161}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1162}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1163}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 57, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1164}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1165}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 77, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1166}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 62, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1167}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1168}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 95, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1169}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1170}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1171}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1172}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1173}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1174}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 103, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1175}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 134, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1176}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1177}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1178}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 71, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1179}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 66, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1180}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 62, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1181}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1182}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1183}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 140, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1184}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1185}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 76, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1186}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 91, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1187}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1188}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1189}
+{"acc": 0, "error": "extraction_failed", "extraction_failed": 1, "idx": 1190}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 82, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1191}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 86, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1192}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 87, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1193}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1194}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1195}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 92, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1196}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1197}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1198}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1199}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1200}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1201}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1202}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 68, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1203}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1204}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1205}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1206}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1207}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1208}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1209}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1210}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 95, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1211}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1212}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 64, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1213}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1214}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1215}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1216}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1217}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1218}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 70, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1219}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1220}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1221}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1222}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1223}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1224}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1225}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 87, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1226}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1227}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1228}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 53, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1229}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 89, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1230}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1231}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1232}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1233}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1234}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 96, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1235}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 110, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1236}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 97, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1237}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 70, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1238}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 78, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1239}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1240}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 94, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1241}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1242}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1243}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 47, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1244}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1245}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1246}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 82, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1247}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1248}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 83, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1249}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 90, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1250}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1251}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1252}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1253}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1254}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1255}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1256}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 82, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1257}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 82, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1258}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 62, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1259}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1260}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 52, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1261}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1262}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1263}
+{"acc": 0, "error": "extraction_failed", "extraction_failed": 1, "idx": 1264}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 89, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1265}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 91, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1266}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1267}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1268}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1269}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 59, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1270}
+{"acc": 0, "error": "extraction_failed", "extraction_failed": 1, "idx": 1271}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1272}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 84, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1273}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1274}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 80, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1275}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1276}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1277}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 65, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1278}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 85, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1279}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1280}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1281}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1282}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1283}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1284}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1285}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 64, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1286}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 101, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1287}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 102, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1288}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 70, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1289}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 82, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1290}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1291}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 78, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1292}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 76, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1293}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1294}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 70, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1295}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 86, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1296}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1297}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 76, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1298}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 85, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1299}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 87, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1300}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1301}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 82, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1302}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1303}
+{"acc": 0, "error": "extraction_failed", "extraction_failed": 1, "idx": 1304}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1305}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1306}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 91, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1307}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1308}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1309}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1310}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 83, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1311}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 93, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1312}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1313}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 57, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1314}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1315}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 108, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1316}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1317}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 90, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1318}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1319}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 90, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1320}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1321}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 99, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1322}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1323}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1324}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1325}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 117, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1326}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1327}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 92, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1328}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1329}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1330}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1331}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 134, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1332}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 55, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1333}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1334}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 99, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1335}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1336}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1337}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 61, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1338}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 98, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1339}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1340}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1341}
+{"acc": 0, "error": "extraction_failed", "extraction_failed": 1, "idx": 1342}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1343}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1344}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1345}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1346}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1347}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1348}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1349}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1350}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1351}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1352}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1353}
+{"acc": 0, "error": "extraction_failed", "extraction_failed": 1, "idx": 1354}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1355}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1356}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1357}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1358}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1359}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1360}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1361}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1362}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1363}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1364}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1365}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1366}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1367}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1368}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1369}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1370}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1371}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1372}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1373}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1374}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1375}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 106, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1376}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1377}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1378}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1379}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1380}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1381}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 70, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1382}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1383}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 132, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1384}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1385}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1386}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1387}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1388}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1389}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1390}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1391}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 63, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1392}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1393}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1394}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1395}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1396}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1397}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1398}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1399}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1400}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1401}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1402}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1403}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1404}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1405}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1406}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1407}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 80, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1408}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1409}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1410}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 62, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1411}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1412}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1413}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 60, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1414}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1415}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 77, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1416}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 65, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1417}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1418}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1419}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1420}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 72, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1421}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1422}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1423}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1424}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1425}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1426}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1427}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1428}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1429}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1430}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1431}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1432}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 87, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1433}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 116, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1434}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1435}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1436}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1437}
+{"acc": 0, "error": "extraction_failed", "extraction_failed": 1, "idx": 1438}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1439}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1440}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1441}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1442}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 92, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1443}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 90, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1444}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1445}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1446}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 70, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1447}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1448}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 79, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1449}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1450}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 71, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1451}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1452}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1453}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1454}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 86, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1455}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 84, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1456}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1457}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1458}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1459}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1460}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1461}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1462}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 91, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1463}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 80, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1464}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1465}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 101, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1466}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1467}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1468}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1469}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1470}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1471}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 89, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1472}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 111, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1473}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1474}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 77, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1475}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1476}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1477}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 79, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1478}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1479}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 71, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1480}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1481}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1482}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1483}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 76, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1484}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 102, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1485}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1486}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1487}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1488}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 109, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1489}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1490}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1491}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1492}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1493}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1494}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 116, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1495}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1496}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 82, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1497}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 91, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1498}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 90, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1499}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1500}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 123, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1501}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 57, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1502}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 88, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1503}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1504}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 63, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1505}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1506}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1507}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 62, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1508}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 87, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1509}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 68, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1510}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1511}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 98, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1512}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 55, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1513}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 71, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1514}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 74, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1515}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 104, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1516}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1517}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 82, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1518}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1519}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1520}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1521}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 72, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1522}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1523}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 88, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1524}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 110, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1525}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 93, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1526}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1527}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 76, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1528}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 84, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1529}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1530}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 69, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1531}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 122, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1532}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1533}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 90, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1534}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 83, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1535}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1536}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 96, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1537}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 58, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1538}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 81, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1539}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1540}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 102, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1541}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1542}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 61, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1543}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 94, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1544}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1545}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 89, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1546}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 79, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1547}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1548}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 67, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1549}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1550}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1551}
+{"acc": 0, "error": "extraction_failed", "extraction_failed": 1, "idx": 1552}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1553}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 72, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1554}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1555}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1556}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 64, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1557}
+{"acc": 0, "error": "extraction_failed", "extraction_failed": 1, "idx": 1558}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1559}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 78, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1560}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 39, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1561}
+{"acc": 1, "error": null, "extraction_failed": 0, "idx": 1562}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 80, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1563}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 85, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1564}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 76, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1565}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 85, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1566}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 91, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1567}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 45, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1568}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 97, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1569}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 83, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1570}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 91, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1571}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 70, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1572}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 73, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1573}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 70, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1574}
+{"acc": 0, "error": "Traceback (most recent call last):\n  File \"/mnt/workspace/AutoLogi/temp_code.py\", line 75, in <module>\n    assert res == True\n           ^^^^^^^^^^^\nAssertionError\n", "extraction_failed": 0, "idx": 1575}
