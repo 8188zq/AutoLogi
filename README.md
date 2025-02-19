@@ -1,6 +1,6 @@
 # AutoLogi
 
-This repository contains the official implementation for the paper "AutoLogi: Automated Generation of Logic Puzzles for Evaluating Reasoning Abilities of Large Language Models" [paper url].
+This repository contains the official implementation for the paper **"AutoLogi: Automated Generation of Logic Puzzles for Evaluating Reasoning Abilities of Large Language Models"** [paper url].
 
 ## DATA
 
@@ -11,7 +11,8 @@ AutoLogi benchmark evaluation data is available in:
 
 ### Training Data
 Located in `/training-data/`:
-- `synthesized_data_cn.jsonl` and `synthesized_data_en.jsonl`: Data generated using our synthesis method
+- `source_corpus_cn.jsonl` and `source_corpus_en.jsonl`: Source data as input
+- `synthesized_data_cn.jsonl` and `synthesized_data_en.jsonl`: Data generated from source corpus using our synthesis method
 - SFT and DPO data obtained through rejection-sampling using:
   - Qwen2.5-72b-instruct
   - Qwen2.5-7b-instruct
@@ -33,7 +34,7 @@ python evaluation/eval.py --input_data ./model_output/qwen2.5_72b_instruct_respo
 ## Synthesize
 The implementation of our synthesis method is in /synthsize/.
 
-**Note**: All API-related configurations (api-key and url-base) need to be modified according to your setup in the dash_call function.
+**Note**: Before running the code, you need to modify the API configurations (api-key and url-base) according to your setup in functions like `dash_call` and set the corresponding environment variables.
 
 ### Quick Start
 
