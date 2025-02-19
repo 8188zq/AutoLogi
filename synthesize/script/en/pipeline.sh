@@ -1,4 +1,4 @@
-NAME="synthesized_data_en"
+NAME="source_corpus_en"
 cd /AutoLogi/synthesize
 # verify 1
 python -m verify.verify_step1 --name=$NAME 
@@ -19,7 +19,7 @@ for i in 1 2; do
     done
     j=1
 done
-python ./synthesize/traverse/get_final_res.py --name=$NAME --max_verify_time=$MAX_VERIFY_TIME --max_traverse_time=$MAX_TRAVERSE_TIME
+python ./traverse/get_final_res.py --name=$NAME --max_verify_time=$MAX_VERIFY_TIME --max_traverse_time=$MAX_TRAVERSE_TIME
 
 # delete
 python -m delete.delete --name=$NAME 

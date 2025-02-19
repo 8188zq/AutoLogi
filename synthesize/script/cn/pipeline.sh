@@ -1,4 +1,4 @@
-NAME="synthesized_data_cn"
+NAME="source_corpus_cn"
 
 cd /AutoLogi/synthesize
 
@@ -24,7 +24,7 @@ for i in 1 2; do
 done
 
 echo "Starting: Get Final Results"
-python /mnt/workspace/COLLING_PAPER-for-trainingset/traverse/get_final_res_cn.py --name=$NAME --max_verify_time=$MAX_VERIFY_TIME --max_traverse_time=$MAX_TRAVERSE_TIME
+python ./traverse/get_final_res_cn.py --name=$NAME --max_verify_time=$MAX_VERIFY_TIME --max_traverse_time=$MAX_TRAVERSE_TIME
 
 # delete
 echo "Starting: Delete"
