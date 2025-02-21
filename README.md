@@ -34,7 +34,7 @@ python evaluation/eval.py --input_data ./model_output/qwen2.5_72b_instruct_respo
 ## Synthesize
 The implementation of our synthesis method is in /synthsize/.
 
-**Note**: Before running the code, you need to modify the API configurations according to your setup in function `utils\call_openai` and set the corresponding environment variables(`OPENAI_API_KEY`).
+**Note**: Before running the code, you need to modify the API configurations according to your setup in function `utils/call_openai` and set the corresponding environment variables(`OPENAI_API_KEY`).
 
 ### Quick Start
 
