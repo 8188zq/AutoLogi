@@ -15,6 +15,7 @@ import os
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from prompts.add import find_new_constraints_prompt_cn, find_new_constraints_prompt_en
+from utils.call_openai import call_openai
 
 def extract_json_blocks(markdown_text):
     pattern = re.compile(r'```json(.*?)```', re.DOTALL)
@@ -38,31 +39,6 @@ def analyze_input(api_key, input_text, model_name='qwen-72b-instruct'):
     content = completion.choices[0].message.content
     return content
 
-CALL_URL = ''
-HEADERS = {'Content-Type': 'application/json',
-           "Authorization": f"Bearer {os.environ['DASHSCOPE_API_KEY']}"
-          }
-
-def dash_call(**kwargs):
-    payload = copy.deepcopy(kwargs)
-    assert 'model' in payload
-    max_try = 8
-    for i in range(max_try):
-        try:
-            ret = requests.post(CALL_URL, json=payload,
-                                headers=HEADERS, timeout=180)
-            if ret.status_code != 200:
-                raise Exception(f"http status_code: {ret.status_code}\n{ret.content}")
-            ret_json = ret.json()
-            for output in ret_json['choices']:
-                if output['finish_reason'] not in ['stop', 'function_call']:
-                    raise Exception(f'openai finish with error...\n{ret_json}')
-            return ret_json['choices'][0]['message']['content']
-        except Exception as e:
-            print(traceback.format_exc())
-            time.sleep(10)
-    raise Exception('Max Retry...')
-
 def get_content(api_key, input_text, model_name='gpt-4'):
     seed = random.randint(0, 9999)
     messages=[{'role': 'system', 'content': 'You are a helpful assistant.'},
@@ -71,7 +47,7 @@ def get_content(api_key, input_text, model_name='gpt-4'):
             messages=messages,
             model = model_name,
         )
-    api_key = os.getenv('DASHSCOPE_API_KEY')
+    api_key = os.getenv('OPENAI_API_KEY')
     content = dash_call(**call_args)
     return content
 

@@ -13,6 +13,7 @@ import copy
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
 from prompts.verify import build_verify_function_prompt_cn,build_verify_function_prompt_en
+from utils.call_openai import call_openai
 
 def set_to_list(obj):
     if isinstance(obj, set):
@@ -37,30 +38,6 @@ def save_data(data, save_path, debug=False):
             f.write("\n")
             f.flush()
 
-CALL_URL = ''
-HEADERS = {'Content-Type': 'application/json',
-           "Authorization": f"Bearer {os.environ['DASHSCOPE_API_KEY']}"
-          }
-
-def dash_call(**kwargs):
-    payload = copy.deepcopy(kwargs)
-    assert 'model' in payload
-    max_try = 3
-    for i in range(max_try):
-        try:
-            ret = requests.post(CALL_URL, json=payload,
-                                headers=HEADERS, timeout=180)
-            if ret.status_code != 200:
-                raise Exception(f"http status_code: {ret.status_code}\n{ret.content}")
-            ret_json = ret.json()
-            for output in ret_json['choices']:
-                if output['finish_reason'] not in ['stop', 'function_call']:
-                    raise Exception(f'openai finish with error...\n{ret_json}')
-            return ret_json['choices'][0]['message']['content']
-        except Exception as e:
-            print(traceback.format_exc())
-            time.sleep(10)
-    raise Exception('Max Retry...')
 
 def get_content(api_key, input_text, model_name='gpt-4 8K'):
     seed = random.randint(0, 9999)
@@ -70,7 +47,7 @@ def get_content(api_key, input_text, model_name='gpt-4 8K'):
             messages=messages,
             model = model_name,
         )
-    content = dash_call(**call_args)
+    content = call_openai(**call_args)
     return content
 
 def extract_code_blocks(markdown_text):
@@ -182,7 +159,7 @@ if __name__ == "__main__":
     input_path = f"./synthesize/verify/output_cn/{args.name}.jsonl"
     save_path = f"./synthesize/verify/output_cn/{args.name}_v{verify_turn_id}.{traverse_turn_id}.jsonl"
 
-    api_key = os.getenv("DASHSCOPE_API_KEY")
+    api_key = os.getenv("OPENAI_API_KEY")
     # model_name = "gpt-4o-2024-08-06" 
     model_name = "gpt-4-0613"
     cache_id = []
