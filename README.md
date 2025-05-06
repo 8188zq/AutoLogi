@@ -2,6 +2,19 @@
 
 This repository contains the official implementation for the paper [**"AutoLogi: Automated Generation of Logic Puzzles for Evaluating Reasoning Abilities of Large Language Models"**](https://arxiv.org/abs/2502.16906).
 
+## Basic Information
+
+![Method Overview](pic/method.png)
+
+Our automated method for synthesizing open-ended logic puzzles consists of three stages: Stage 1 formulates logic puzzles by extracting background information and constraints from a source corpus. Stage 2 uses large language models (LLMs) to generate verifiers, which are programs that check puzzle solutions and ensure correct formatting. Stage 3 augments the puzzles by adding or removing constraints to create varying difficulty levels. All three stages leverage powerful LLMs, such as GPT-4, for generation.
+
+|  | D<sub>testing</sub> | D<sub>training</sub> | D<sub>dpo</sub>(7b) | D<sub>dpo</sub>(72b) | D<sub>sft</sub>(72b) |
+|:---:|:-------------------:|:-------------------:|:-------------------:|:--------------------:|:-------------------:|
+| **EN** | 1575                | 5064                | 2877                | 2349                 | 3724                |
+| **CN** | 883                 | 1675                | 901                 | 621                  | 1170                |
+
+The table above presents a detailed statistical overview of the synthetic test set (D<sub>testing</sub>) and various training datasets used. 
+
 ## DATA
 
 ### Benchmark Data
@@ -62,7 +75,7 @@ bash /synthesize/script/en/add.sh
 2. Modify the NAME variable in `./synthesize/script/en/pipeline.sh` to match your dataset name
 3. Run the pipeline as described above
 
-### Leaderboard
+## Leaderboard
 The "Overall Scores" column represents the arithmetic mean of the model's scores on "AutoLogi(Augmented) EN" and "AutoLogi(Augmented) CN".
 
 | **Model**                 | **AutoLogi(Augmented) EN** | **AutoLogi(Augmented) CN** | **Overall Scores** |
@@ -77,7 +90,7 @@ The "Overall Scores" column represents the arithmetic mean of the model's scores
 | Claude-3.5-sonnet         | 72.53 ±0.82                | **68.24** ±0.98                | **70.39**          |
 
 
-### Citation
+## Citation
 
 The code in this repository is developed from the papers below. Please cite it if you find the repository helpful.
 ```
