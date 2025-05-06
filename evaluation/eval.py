@@ -70,6 +70,30 @@ def extract_code(text: str) -> str:
         else:
             return None
 
+def extract_last_dict(content):
+    stack = []  
+    start_idx = None  
+    last_dict = None 
+
+    for i, char in enumerate(content):
+        if char == '{':
+            if not stack:
+                start_idx = i
+            stack.append('{')
+        elif char == '}':
+            if stack:
+                stack.pop()
+                if not stack:
+                    last_dict = content[start_idx:i + 1]
+    return last_dict
+
+def extract_last_list(content):
+    matches = re.findall(r"\[.*?\]", content, re.DOTALL)
+    if matches:
+        return matches[-1]
+    else:
+        return None
+    
 def compute_coding_pass1(inp):
     result = {}
     content = inp.gen
@@ -78,7 +102,15 @@ def compute_coding_pass1(inp):
     result["error"] = None
     func_args  = extract_code(content)
     if func_args is None:
-        return {"acc": 0, "error": "extraction_failed", "extraction_failed": 1}
+        last_dict = extract_last_dict(content)
+        last_list = extract_last_list(content)
+        if last_dict is not None:
+            func_args = last_dict
+        else:
+            if last_list is not None:
+                func_args = last_list
+            else:
+                return {"acc": 0, "error": "extraction_failed", "extraction_failed": 1}
     try:
         func_args = re.sub(r'//.*?\n', '', func_args)
         params = ast.literal_eval(func_args.replace("true","True").replace("false","False"))
@@ -102,18 +134,6 @@ def compute_coding_pass1(inp):
     output, error = run_code(test_program, timeout)
 
     return {"acc": 1 if output and output.strip() in ["True","true"] else 0, "error": error, "extraction_failed": 0}
-    # async with sem:
-    #     try:
-    #         res = await client_utils.query_async(f"code_eval_octopack_{language}_{JUDGER_VERSION}", evaluate_args, 
-    #                                 timeout=timeout + 5, no_block=prefetch)
-    #         if prefetch:
-    #             return
-    #         pass_at_k = res['pass_at_k']
-    #         logs = res['results']
-    #         job['code-error'] = logs['0'][0][1]['result']
-    #         return {"acc": pass_at_k["pass@1"], "extraction_failed": job['extraction_failed']}
-    #     except Exception as e:
-    #         return {"acc": INVALID_VALUE, "extraction_failed": job['extraction_failed']}
 
 def main():
     parser = argparse.ArgumentParser(
@@ -180,28 +200,6 @@ def main():
             score = 0
         print(f"acc: {score}")
 
-    # for func, output_file_name in eval_functions:
-    #     logging.info(f"Generating {output_file_name}...")
-    #     outputs = []
-    #     for inp in inputs:
-    #         output = func(inp, prompt_to_response)
-    #         outputs.append(output)
-
-    #     if outputs:
-    #         follow_all_instructions = [o.follow_all_instructions for o in outputs]
-    #         accuracy = sum(follow_all_instructions) / len(outputs)
-    #         logging.info("Accuracy: %.6f", accuracy)
-    #     else:
-    #         logging.warning("No outputs to evaluate.")
-
-    #     output_file_path = os.path.join(args.output_dir, f"{output_file_name}.jsonl")
-    #     write_outputs(output_file_path, outputs)
-    #     logging.info(f"Generated: {output_file_path}")
-
-    #     # Print instruction following accuracy report
-    #     print("=" * 64)
-    #     print(f"{output_file_name} Accuracy Scores:")
-    #     print_report(outputs)
 
 
 if __name__ == "__main__":

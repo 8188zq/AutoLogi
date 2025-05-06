@@ -1,6 +1,6 @@
 # AutoLogi
 
-This repository contains the official implementation for the paper **"AutoLogi: Automated Generation of Logic Puzzles for Evaluating Reasoning Abilities of Large Language Models"** [paper url].
+This repository contains the official implementation for the paper [**"AutoLogi: Automated Generation of Logic Puzzles for Evaluating Reasoning Abilities of Large Language Models"**](https://arxiv.org/abs/2502.16906).
 
 ## DATA
 
